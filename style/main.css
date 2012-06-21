@@ -55,12 +55,13 @@ h3{
 }
 
 p{
+    margin: 0;
     padding: 5px 0px;
     text-align: justify;
 }
 
 ul{
-    margin-left: 0em;
+    margin-left: 0;
     padding-left: 0.2em;
     list-style-type: circle;
     list-style-position: inside;
@@ -102,7 +103,7 @@ nav{
     width: 683px;
     height: auto;
     padding: 3px 9px 3px 0px;
-    border: 0px none;
+    border: 0 none;
     margin: 3px 9px 3px 0px;
     float: right;
     overflow: overlay;
@@ -124,9 +125,9 @@ nav ul li{
 #pagecontent{
     width: 683px;
     height: auto;
-    padding: 3px 9px 3px 0px;
+    padding: 3px 9px 3px 0;
     border: 0px none;
-    margin: 3px 9px 3px 0px;
+    margin: 3px 9px 3px 0;
     float: right;
     overflow: overlay;
     text-align: left;
@@ -135,9 +136,9 @@ nav ul li{
 #pageimage{
     width: 245px;
     height: auto;
-    padding: 3px 0px 3px 3px;
+    padding: 3px 0 3px 3px;
     border: 0px none;
-    margin: 3px 0px 3px 3px;
+    margin: 3px 0 3px 3px;
     float: left;
     overflow: overlay;
     text-align: center;
@@ -147,7 +148,7 @@ footer{
     width: 940px;
     height: auto;
     padding: 3px;
-    border: 0px none;
+    border: 0 none;
     margin: 3px;
     clear: both;
     overflow: overlay;
