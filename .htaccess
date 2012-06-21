@@ -1,0 +1,2 @@
+AddHandler php5-cgi .html .htm
+Options -Indexes

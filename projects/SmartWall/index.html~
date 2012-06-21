@@ -1,0 +1,48 @@
+<?php include($_SERVER['DOCUMENT_ROOT'].'/include/page-start.html'); ?>
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/include/head-start.html'); ?>
+<title>Projects</title>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/include/head-end.html'); ?>
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/include/body-start.html'); ?>
+<header>
+<h1>Projects</h1>
+</header>
+<p>
+  Some things I'm working on, have worked on, or fully intend to
+  work on. Organized by the aforementioned categories.
+</p>      
+
+<header>
+<h2>Active</h2>
+</header>
+<p>Coming Soon</p>
+
+<header>
+<h2>Former</h2>
+</header>
+<p>
+  In a loosely chronological order (most recent at
+  top)...
+</p>
+<ul>
+  <li>Managing <a href="http://www.wmfo.org">WMFO</a>
+    - The Tufts Freeform Radio Station</li>
+  <li>Acting as the lead Electrical Engineer on the
+    <a href="http://sites.tufts.edu/hybridracing/">
+      Tufts Hybrid Racing Team</a></li>
+  <li>Writing a few articles for the
+    <a href="http://tuftsobserver.org/">Tufts Observer</a></li>
+  <li>Building a big floating arm trebuchet</li>
+  <li>Creating <a href="http://unionstreetunderground.blogspot.com/">
+      The Union Street Underground</a>
+    - An underground newspaper at my high school</li>
+</ul>
+
+<header>
+<h2>Planned</h2>
+</header>
+<p>Coming Soon</p>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/include/body-end.html'); ?>  
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/include/page-end.html'); ?>

@@ -1,0 +1,109 @@
+.resume .clear{
+    clear: both;
+}
+.resume h2{
+    font-size: 20px;
+    line-height: 22px;
+    font-weight: bold;
+    font-style: normal;
+    margin: 0 0 0 0;
+    position: relative;
+}
+.resume span.sec_heading_bold{
+    font-size: 20px;
+    line-height: 22px;
+    font-weight: bold;
+    font-style: normal;
+    margin: 0 0 0 0;
+    position: relative;
+}
+.resume span.sec_heading_italic{
+    font-size: 20px;
+    line-height: 22px;
+    font-weight: normal;
+    font-style: italic;
+    margin: 0 0 0 0;
+    position: relative;
+}
+.resume span.sec{
+    font-size: 17px;
+    line-height: 20px;
+    font-weight: normal;
+    font-style: normal;
+    margin: 0 0 0 0;
+    position: relative;
+}
+.resume .plain{
+    font-weight: normal;
+    font-style: normal;
+}
+.resume p.details{
+    margin: 0 0 0 0;
+    padding: 0 0 5px 15px;
+}
+.resume dl{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    border: none;    
+    width: 683px;
+}
+.resume dt{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px; 
+    text-align: right;
+    padding: 0 10px 0 0;
+    margin: 0 0 0 0;
+    width: 100px;
+    float: left;
+    border: none;
+}
+.resume dd.main{
+    text-align: left;
+    padding: 0 0 0 10px;
+    margin: 0 0 0 0;
+    width: 555px;
+    height: auto;
+    float: right;
+    border-left: 1px solid #999;
+}
+.resume dd.clear{
+    float: none;
+    margin: 0;
+    padding: 0;
+    height: 15px;
+}
+.resume ul{
+    margin: 0;
+}
+.resume ul li{
+    display: table-cell;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.resume ul.oneway li{
+    width: 545px;
+}
+.resume ul.twoway_left li.first{
+    width: 395px;
+}
+.resume ul.twoway_left li.second{
+    width: 150px;
+}
+.resume ul.twoway_right li.first{
+    width: 80px;
+}
+.resume ul.twoway_right li.second{
+    width: 465px;
+}
+.resume ul.threeway li.first{
+    width: 80px;
+}
+.resume ul.threeway li.second{
+    width: 315px;
+}
+.resume ul.threeway li.third{
+    width: 150px;
+}

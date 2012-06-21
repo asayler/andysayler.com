@@ -1,0 +1,91 @@
+<?php include($_SERVER['DOCUMENT_ROOT'].'/include/page-start.html'); ?>
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/include/head-start.html'); ?>
+<title>About Andy</title>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/include/head-end.html'); ?>
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/include/body-start.html'); ?>
+<header>
+<h1>About Andy</h1>
+</header>
+<p>
+  So you want to know more about me? Let's see what we can do...
+  I'm and Engineer with EE, ME, and CS
+  tendencies. I like building things that people can use. I also enjoy
+  various (debatably) non-engineering pursuits (like
+  <a href="/photography">photography</a>).
+</p>
+
+<header>
+<h2>Overview</h2>
+</header>
+
+<p>
+  When not discharging my duties as a masked vigilante,
+  I'm a <a href="http://www.cs.colorado.edu/">Computer Science</a>
+  PhD student at the
+  <a href="http://www.colorado.edu/">University of Colorado</a> in
+  Boulder. I'm working with the 
+  <a href="http://systems.cs.colorado.edu/">System and Networks</a>
+  group on next generation networking technology, digital security,
+  and various other projects I find interesting.
+</p>
+        
+<p>
+  Prior to coming to Boulder, I obtained my
+  Bachelors of Science in
+  <a href="http://www.ece.tufts.edu/">Electrical Engineering</a>
+  from <a href="http://www.tufts.edu/">Tufts University</a>
+  in Medford, MA. I have a minor in
+  <a href="http://www.cs.tufts.edu/">Computer Science</a>,
+  and lots of coursework in
+  <a href="http://engineering.tufts.edu/me/">Mechanical Engineering</a>
+  and <a href="/photography">Photography</a>
+</p>
+        
+<p>
+  Despite my current computer science tendencies, I very much consider
+  myself an engineer (not that they are mutually exclusive; I'm just not
+  <a href="http://en.wikipedia.org/wiki/Theory_of_computation">this kind</a>
+  of Computer Scientist).
+  I'm happiest when building things that solve
+  interesting problems. In particular, problems in the consumer/commercial
+  software, electronics, and devices space.
+  In short, I like building things that
+  one could conceivably go out, buy, and benefit from.
+</p>
+        
+<p>
+  While predicting the future is a dangerous
+  pursuit, I would wager that my future will include some form of R&amp;D
+  work combining my EE, and CS talents (and maybe ME talents too).
+  I'm interested in
+  entrepreneurship and would love to build something interesting enough
+  that it would warrant starting a company to develop and sell.
+</p>
+
+<p>
+  I like the number 3, enjoy Internet and Tech history, and appreciate
+  a wide variety of music, but especially early goth rock,
+  David Bowie, and The White Stripes. I also Swing Dance, practice
+  <a href="/photography">photography</a>, and fly kites.
+  This sentence exists merely to satisfy the
+  first item in this paragraph.
+</p>
+
+<header>
+<h2>Elsewhere on the Interwebs...</h2>
+</header>
+<p>
+  You can also find me at:
+</p>
+<ul>
+  <li><a href="http://www.linkedin.com/pub/andrew-sayler/20/8/79a">LinkedIn</a></li>
+  <li><a href="http://www.facebook.com/andy.sayler">facebook</a></li>
+  <li><a href="https://github.com/asayler">github</a></li>
+  <li><a href="https://profiles.google.com/neueWelt/">Google Profile</a></li>
+  <li><a href="https://wiki.wmfo.org/User:AndySayler">wikiWMFO Profile</a></li>
+</ul>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/include/body-end.html'); ?>  
+
+<?php include($_SERVER['DOCUMENT_ROOT'].'/include/page-end.html'); ?>
