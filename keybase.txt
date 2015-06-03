@@ -1,0 +1,78 @@
+==================================================================
+https://keybase.io/asayler
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.andysayler.com
+    * I am asayler (https://keybase.io/asayler) on keybase.
+      * I have a public key with fingerprint 698A FB46 AE0B CD05 EA0E
+    * 35ED F613 E734 32C5 9C00
+
+To do so, I am signing this object:
+
+{
+    "body": {
+            "key": {
+                        "fingerprint":
+    "698afb46ae0bcd05ea0e35edf613e73432c59c00",
+                "host": "keybase.io",
+                            "key_id": "f613e73432c59c00",
+                                        "kid":
+    "0101167ac80cf9be42e226ed7ee93ac92e46cb57197bd817b0f27629b8a7d01b1d860a",
+                "uid": "32d6389e169d219b756a07c9b8f4a519",
+                            "username": "asayler"
+                                    },
+                                            "service": {
+                                                        "hostname":
+    "www.andysayler.com",
+                "protocol": "https:"
+                        },
+                                "type": "web_service_binding",
+                                        "version": 1
+                                            },
+                                                "ctime": 1433293819,
+                                                    "expire_in":
+    157680000,
+        "prev":
+    "29d4a960a1d664733b11a5e6e7b897e2482b7c4b7fef8dbb43d49eabecffc954",
+        "seqno": 5,
+            "tag": "signature"
+            }
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFtkntQVFUcxxfiJYlQQUOhkTdt5DE79/1YYhpmfDQujsEmb4F7zj0XFvDuenfZ
+ZVs3HWMsJk2tWGc2sBaLHjapgFJjQ4UQATsqjKlIFOSU+GCyBMyK2e6S/df558z5
+/b7fzzm/3/kdiHtAFxMWmE4sfOf21Bthw9eBbotiCroxYJFcmMGN1aLFTTYrVUi1
+qmbFjhkwVuBFGdCsiHAAJZxBIo4oBkkyS1CIo2iKhIwAcRzLxKottpBDwwDRhvRm
+ixbTDhVmSYv+j752MYETOEGwnAh5HMoCQDSJSJJFEoeQQIlQIBHNQsBwhMABiSc4
+gMskx5IC4EVOwglASDyLixqufhFHkRJL8QIiWEEiCQFwDCviHNTkMi0yhBAS2pCq
+iNuQphZtoqsOqZgnE9OCDjNEoQ6ECrkvcDqdelGRXP/q9NCyTQNYVYvdAi11Wr7a
+brfaDCG/3WVdNCBQcR9VAcyKpDVTcziQajNbFMxAaEpoN4fYBE1RpEDxhJCJoQar
+WUUV5pCC4Vge11boHuTQkKQg0aKgFUlILEtzFAUIQmQQizjACxwiaZ4EHKQBJyOZ
+lwCgKYkWkAgQlGUoMDQWKm67YsEMjPZMsUpD2sxVihhtr1cR5oltCl8eoQuL0UVF
+hocGQhe7JOG/KelIjf8rYjPZGl7yJ/F2ru/hpN0j692Ryd2cfLPh2bGea97br1vz
+sWY3KJm/MX5ybVrEH/SeUVN4ftaOzY8neU3Xo6DvjJLyWSV3cSa4/4vSnLZ7nUXx
+9w4tmdsVyGH6fgxmPGEc3trQSK5oeSnF/35g3BjXsZGved7XW9NB3fW4DgamMj7K
+9d/yyokF00lLfx96xXGCOp42dG4utyzbJUxcjAcza6b0lbB874Ns3tnGpubyIwOT
+lRQ/mvNez6n9x9YdTnkr1T826J694maeMuXVrOrwmNoX+npHBoPz0Hi6YK70spds
+SZx8cymTvKy6tv5cybGTYfsiv+8P/xtq/3H5afXCh8OvPlrYN/qd58nBb4wTvYJ0
+Kz2/MXn2xe7is1TXjP6TONPGby81Dnxet8z4VWbLaG3qyDMf/8qtSivpTfA5diWt
+vnC1qjXsZUeWv8rbfcC38spzZ/YpTQkLQ3t3OHIzGr4GarG+XSxYfe1Ixm+P+Hse
+qoZw09ymn3YX9XnWOg879dOGiSJTZ17cUa7T+UFry8FyY/qau6einV2ZJdkt699t
+m8vf+ULZ0aiC5i3elefjh++k/3D1tPf4L3DyRFn61g3RZcFLs22fFmevWDfQ6+gv
+rfw5dT5rco+6EHs+4H8sZlgZGt+5fXkw0H6jnx7z3VS6vmzwSrrqYnvEZM5sXW3S
+nUOFr/0D
+=rMud
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/asayler
+
+==================================================================
