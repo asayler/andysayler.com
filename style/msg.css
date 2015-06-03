@@ -23,7 +23,7 @@ a.msg_back{
     height:700px;
     position:relative;
     overflow:hidden;
-    background:#E0E0E0 url(/icons/msg/loading.gif) no-repeat center center;
+    background:#E0E0E0 url(/icons_local/msg/loading.gif) no-repeat center center;
     -moz-border-radius:10px;
     -webkit-border-radius:10px;
     border-radius:10px;
@@ -81,19 +81,19 @@ a.msg_back{
     filter:progid:DXImageTransform.Microsoft.Alpha(opacity=99);
 }
 .msg_controls a.msg_grid{
-    background-image:url(/icons/msg/grid.png);
+    background-image:url(/icons_local/msg/grid.png);
 }
 .msg_controls a.msg_prev{
-    background-image:url(/icons/msg/prev.png);
+    background-image:url(/icons_local/msg/prev.png);
 }
 .msg_controls a.msg_next{
-    background-image:url(/icons/msg/next.png);
+    background-image:url(/icons_local/msg/next.png);
 }
 .msg_controls a.msg_pause{
-    background-image:url(/icons/msg/pause.png);
+    background-image:url(/icons_local/msg/pause.png);
 }
 .msg_controls a.msg_play{
-    background-image:url(/icons/msg/play.png);
+    background-image:url(/icons_local/msg/play.png);
 }
 .msg_thumbs{
     background:white;
@@ -151,11 +151,11 @@ a.msg_back{
     filter:progid:DXImageTransform.Microsoft.Alpha(opacity=99);
 }
 .msg_thumbs a.msg_thumb_next{
-    background-image:url(/icons/msg/next_thumb.png);
+    background-image:url(/icons_local/msg/next_thumb.png);
     right:5px;
 }
 .msg_thumbs a.msg_thumb_prev{
-    background-image:url(/icons/msg/prev_thumb.png);
+    background-image:url(/icons_local/msg/prev_thumb.png);
     left:5px;
 }
 .msg_thumbs a.msg_thumb_close{
@@ -164,7 +164,7 @@ a.msg_back{
     width:50px;
     left:50%;
     margin:0 0 0 -25px;
-    background:#505050 url(/icons/msg/up.png) no-repeat center center;
+    background:#505050 url(/icons_local/msg/up.png) no-repeat center center;
     height:16px;
     opacity:0.7;
     -moz-border-radius:5px 5px 0 0;
@@ -179,7 +179,7 @@ a.msg_back{
 }
 .msg_loading{
     position:absolute;
-    background:transparent url(/icons/msg/loading.gif) no-repeat center center;
+    background:transparent url(/icons_local/msg/loading.gif) no-repeat center center;
     top:50%;
     left:50%;
     width:50px;
