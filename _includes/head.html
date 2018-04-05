@@ -1,4 +1,17 @@
-<meta charset="utf-8" />  
+
+{%- assign description = page.description | default: site.description -%}
+{%- assign url = page.url | replace: "index.html", "" | absolute_url -%}
+{%- assign title = page.title | default: site.title -%}
+
 <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
+
+<meta charset="utf-8" />  
+<meta name="description" content="{{ description }}">
+<meta property="og:locale" content="{{ site.locale | replace: "-", "_" | default: "en_US" }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ title }}">
+<meta property="og:url" content="{{ url }}">
+
+<title>{{ title }}</title>
+
 {% include googleanalytics.html %}
-<title>{{ page.title }}</title>
