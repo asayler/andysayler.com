@@ -24,8 +24,8 @@ url: "https://www.andysayler.com" # the base hostname & protocol for your site, 
 markdown: kramdown
 plugins:
 
+
 include:
-  - .htaccess
   - _pages
 
 exclude:

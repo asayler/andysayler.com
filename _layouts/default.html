@@ -1,0 +1,30 @@
+---
+---
+
+<!doctype html>
+
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body>
+
+    <nav>
+      {% include menu.html %}
+    </nav>
+
+    <aside id="pageimage">
+      {% include pageimage.html %}
+    </aside>
+    
+    <section id="pagecontent">
+      {{ content }}
+    </section>
+
+    <footer>
+      {% include footer.html %}
+    </footer>
+      
+  </body>
+
+</html>
