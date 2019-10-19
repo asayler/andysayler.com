@@ -26,7 +26,5 @@ include:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - README
-  
-keep_files:
+  - README.md
   - .git
