@@ -24,11 +24,6 @@ Setup
 
 Updating
 --------
-0. Update rbenv
-   1. `cd ~/.rbenv`
-   2. `git pull`
-   3. `cd ~/.rbenv/plugins/ruby-build`
-   4. `git pull`
 1. Update ruby:
    1. `rbenv install --list`
    2. Choose latest stable version
@@ -37,7 +32,7 @@ Updating
    5. `rbenv rehash`
 2. Update bundler: `bundle update --bundler`
 3. Update main gems
-   1. Lookup versions at https://rubygems.org/gems/
+   1. `bundle outdated`
    2. Update each version in `Gemfile`
    3. `bundle install`
 4. Update gem deps: `bundle update`
